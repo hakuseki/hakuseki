@@ -1,0 +1,12 @@
+* 👋 Hi, I’m @hakuseki
+
+* 👀 I’m interested in
+** Enterprise Integration, patterns and Apache Camel
+** Quarkus has my attention nowadays as well.
+
+* 🌱 I’m currently learning
+** OpenShift
+** Quarkus
+
+* 📫 How to reach me
+** DM's only
